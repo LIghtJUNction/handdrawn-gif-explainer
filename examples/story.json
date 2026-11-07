@@ -1,0 +1,11 @@
+{
+  "width": 800,
+  "height": 450,
+  "frames": 24,
+  "duration": 120,
+  "scenes": [
+    {"scene": "grid", "title": "把任务拆开", "subtitle": "一个格子代表一个小任务", "labels": ["任务一", "任务二", "任务三", "任务四"]},
+    {"scene": "parallel", "title": "同时处理", "subtitle": "相互独立的工作可以并行", "labels": ["甲", "乙", "丙"]},
+    {"scene": "flow", "title": "汇总结果", "subtitle": "最后把结果交回", "labels": ["输入", "并行计算", "结果"]}
+  ]
+}
